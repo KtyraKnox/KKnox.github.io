@@ -2,7 +2,8 @@ body {
     background: rgb(125, 198, 205);
     color: rgb(45, 45, 45);
     padding: 10px;
-    font-family: arial;
+    font-family: lobster;
+    font-size: 36px;
 }
 #all-contents {
   max-width: 800px;
@@ -11,7 +12,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(239, 80, 41);
+    background: rgb(11, 115, 119);
    margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -37,7 +38,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(245, 238, 219);
+    background: rgb(202, 230, 247);
     display: flex;
 }
 .sidebar {
